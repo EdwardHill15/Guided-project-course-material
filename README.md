@@ -13,4 +13,4 @@ Supporting websites: <br>
 [Markdown Tables generator - TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables)
 
 
-![Ed meditating]("Ed.jpg")
+![Ed meditating](Ed.jpg)
